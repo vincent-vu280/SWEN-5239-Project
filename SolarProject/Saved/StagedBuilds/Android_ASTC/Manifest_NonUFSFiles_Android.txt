@@ -1,0 +1,8 @@
+Engine/Content/Renderer/TessellationTable.bin	2025-01-21T18:47:24.461Z
+Engine/Plugins/Marketplace/MetaXR/Source/ThirdParty/OVRPlugin/OVRPlugin/Lib/arm64-v8a/OpenXR/libOVRPlugin.so	2025-01-21T19:09:45.312Z
+Engine/Source/ThirdParty/Oculus/OculusOpenXRLoader/OculusOpenXRLoader/Lib/arm64-v8a/libopenxr_loader.so	2025-01-21T18:54:53.176Z
+Engine/Binaries/ThirdParty/Vulkan/Android/arm64-v8a/libVkLayer_khronos_validation.so	2025-01-21T18:45:09.965Z
+Engine/Binaries/ThirdParty/Vulkan/Android/armeabi-v7a/libVkLayer_khronos_validation.so	2025-01-21T18:45:10.047Z
+Engine/Binaries/ThirdParty/Vulkan/Android/x86/libVkLayer_khronos_validation.so	2025-01-21T18:45:10.295Z
+Engine/Binaries/ThirdParty/Vulkan/Android/x86_64/libVkLayer_khronos_validation.so	2025-01-21T18:45:10.539Z
+UECommandLine.txt	729E802E14A80675CDE922464B252E92

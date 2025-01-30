@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Robin/Documents/Unreal Projects/SolarProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Robin/Documents/Unreal Projects/SolarProject/Content/MixedReality.umap",
+				"C:/Users/Robin/Documents/Unreal Projects/SolarProject/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"C:/Users/Robin/Documents/Unreal Projects/SolarProject/Content/Mixed_Reality/AC_GameManager.uasset",
+				"C:/Users/Robin/Documents/Unreal Projects/SolarProject/Content/Mixed_Reality/UMG/WBP_MainMenuMaster.uasset",
+				"C:/Users/Robin/Documents/Unreal Projects/SolarProject/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset",
+				"C:/Users/Robin/Documents/Unreal Projects/SolarProject/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/Robin/Documents/Unreal Projects/SolarProject/Content/MixedReality_BuiltData.uasset",
+				"C:/Users/Robin/Documents/Unreal Projects/SolarProject/Content/VRTemplate/Maps/M_GameEnvironment_BuiltData.uasset",
+				"C:/Users/Robin/Documents/Unreal Projects/SolarProject/Content/VRTemplate/Maps/M_GameEnvironment.umap",
+				"C:/Users/Robin/Documents/Unreal Projects/SolarProject/Content/VRTemplate/Maps/M_MenuLighting_BuiltData.uasset"
+			]
+		}
+	]
+}
