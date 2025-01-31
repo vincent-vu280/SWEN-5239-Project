@@ -39,10 +39,6 @@
 				"Win64",
 				"Android"
 			]
-		},
-		{
-			"Name": "VaRestX",
-			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
